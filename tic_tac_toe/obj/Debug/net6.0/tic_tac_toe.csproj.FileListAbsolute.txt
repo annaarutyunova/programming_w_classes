@@ -1,0 +1,15 @@
+C:\Git\pro_with_classes\tic_tac_toe\bin\Debug\net6.0\tic_tac_toe.exe
+C:\Git\pro_with_classes\tic_tac_toe\bin\Debug\net6.0\tic_tac_toe.deps.json
+C:\Git\pro_with_classes\tic_tac_toe\bin\Debug\net6.0\tic_tac_toe.runtimeconfig.json
+C:\Git\pro_with_classes\tic_tac_toe\bin\Debug\net6.0\tic_tac_toe.dll
+C:\Git\pro_with_classes\tic_tac_toe\bin\Debug\net6.0\tic_tac_toe.pdb
+C:\Git\pro_with_classes\tic_tac_toe\obj\Debug\net6.0\tic_tac_toe.csproj.AssemblyReference.cache
+C:\Git\pro_with_classes\tic_tac_toe\obj\Debug\net6.0\tic_tac_toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\pro_with_classes\tic_tac_toe\obj\Debug\net6.0\tic_tac_toe.AssemblyInfoInputs.cache
+C:\Git\pro_with_classes\tic_tac_toe\obj\Debug\net6.0\tic_tac_toe.AssemblyInfo.cs
+C:\Git\pro_with_classes\tic_tac_toe\obj\Debug\net6.0\tic_tac_toe.csproj.CoreCompileInputs.cache
+C:\Git\pro_with_classes\tic_tac_toe\obj\Debug\net6.0\tic_tac_toe.dll
+C:\Git\pro_with_classes\tic_tac_toe\obj\Debug\net6.0\refint\tic_tac_toe.dll
+C:\Git\pro_with_classes\tic_tac_toe\obj\Debug\net6.0\tic_tac_toe.pdb
+C:\Git\pro_with_classes\tic_tac_toe\obj\Debug\net6.0\tic_tac_toe.genruntimeconfig.cache
+C:\Git\pro_with_classes\tic_tac_toe\obj\Debug\net6.0\ref\tic_tac_toe.dll
