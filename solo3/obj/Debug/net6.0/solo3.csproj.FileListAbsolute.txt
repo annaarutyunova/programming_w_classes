@@ -1,0 +1,15 @@
+C:\Git\pro_with_classes\solo3\bin\Debug\net6.0\solo3.exe
+C:\Git\pro_with_classes\solo3\bin\Debug\net6.0\solo3.deps.json
+C:\Git\pro_with_classes\solo3\bin\Debug\net6.0\solo3.runtimeconfig.json
+C:\Git\pro_with_classes\solo3\bin\Debug\net6.0\solo3.dll
+C:\Git\pro_with_classes\solo3\bin\Debug\net6.0\solo3.pdb
+C:\Git\pro_with_classes\solo3\obj\Debug\net6.0\solo3.csproj.AssemblyReference.cache
+C:\Git\pro_with_classes\solo3\obj\Debug\net6.0\solo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\pro_with_classes\solo3\obj\Debug\net6.0\solo3.AssemblyInfoInputs.cache
+C:\Git\pro_with_classes\solo3\obj\Debug\net6.0\solo3.AssemblyInfo.cs
+C:\Git\pro_with_classes\solo3\obj\Debug\net6.0\solo3.csproj.CoreCompileInputs.cache
+C:\Git\pro_with_classes\solo3\obj\Debug\net6.0\solo3.dll
+C:\Git\pro_with_classes\solo3\obj\Debug\net6.0\refint\solo3.dll
+C:\Git\pro_with_classes\solo3\obj\Debug\net6.0\solo3.pdb
+C:\Git\pro_with_classes\solo3\obj\Debug\net6.0\solo3.genruntimeconfig.cache
+C:\Git\pro_with_classes\solo3\obj\Debug\net6.0\ref\solo3.dll

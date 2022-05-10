@@ -1,0 +1,5 @@
+C:\Git\pro_with_classes\obj\Debug\net6.0\pro_with_classes.csproj.AssemblyReference.cache
+C:\Git\pro_with_classes\obj\Debug\net6.0\pro_with_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\pro_with_classes\obj\Debug\net6.0\pro_with_classes.AssemblyInfoInputs.cache
+C:\Git\pro_with_classes\obj\Debug\net6.0\pro_with_classes.AssemblyInfo.cs
+C:\Git\pro_with_classes\obj\Debug\net6.0\pro_with_classes.csproj.CoreCompileInputs.cache

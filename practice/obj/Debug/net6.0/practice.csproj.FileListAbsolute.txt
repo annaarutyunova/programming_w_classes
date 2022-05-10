@@ -1,0 +1,15 @@
+C:\Git\pro_with_classes\practice\bin\Debug\net6.0\practice.exe
+C:\Git\pro_with_classes\practice\bin\Debug\net6.0\practice.deps.json
+C:\Git\pro_with_classes\practice\bin\Debug\net6.0\practice.runtimeconfig.json
+C:\Git\pro_with_classes\practice\bin\Debug\net6.0\practice.dll
+C:\Git\pro_with_classes\practice\bin\Debug\net6.0\practice.pdb
+C:\Git\pro_with_classes\practice\obj\Debug\net6.0\practice.csproj.AssemblyReference.cache
+C:\Git\pro_with_classes\practice\obj\Debug\net6.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\pro_with_classes\practice\obj\Debug\net6.0\practice.AssemblyInfoInputs.cache
+C:\Git\pro_with_classes\practice\obj\Debug\net6.0\practice.AssemblyInfo.cs
+C:\Git\pro_with_classes\practice\obj\Debug\net6.0\practice.csproj.CoreCompileInputs.cache
+C:\Git\pro_with_classes\practice\obj\Debug\net6.0\practice.dll
+C:\Git\pro_with_classes\practice\obj\Debug\net6.0\refint\practice.dll
+C:\Git\pro_with_classes\practice\obj\Debug\net6.0\practice.pdb
+C:\Git\pro_with_classes\practice\obj\Debug\net6.0\practice.genruntimeconfig.cache
+C:\Git\pro_with_classes\practice\obj\Debug\net6.0\ref\practice.dll

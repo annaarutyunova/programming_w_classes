@@ -1,0 +1,15 @@
+C:\Git\pro_with_classes\abstraction_theory\bin\Debug\net6.0\abstraction_theory.exe
+C:\Git\pro_with_classes\abstraction_theory\bin\Debug\net6.0\abstraction_theory.deps.json
+C:\Git\pro_with_classes\abstraction_theory\bin\Debug\net6.0\abstraction_theory.runtimeconfig.json
+C:\Git\pro_with_classes\abstraction_theory\bin\Debug\net6.0\abstraction_theory.dll
+C:\Git\pro_with_classes\abstraction_theory\bin\Debug\net6.0\abstraction_theory.pdb
+C:\Git\pro_with_classes\abstraction_theory\obj\Debug\net6.0\abstraction_theory.csproj.AssemblyReference.cache
+C:\Git\pro_with_classes\abstraction_theory\obj\Debug\net6.0\abstraction_theory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\pro_with_classes\abstraction_theory\obj\Debug\net6.0\abstraction_theory.AssemblyInfoInputs.cache
+C:\Git\pro_with_classes\abstraction_theory\obj\Debug\net6.0\abstraction_theory.AssemblyInfo.cs
+C:\Git\pro_with_classes\abstraction_theory\obj\Debug\net6.0\abstraction_theory.csproj.CoreCompileInputs.cache
+C:\Git\pro_with_classes\abstraction_theory\obj\Debug\net6.0\abstraction_theory.dll
+C:\Git\pro_with_classes\abstraction_theory\obj\Debug\net6.0\refint\abstraction_theory.dll
+C:\Git\pro_with_classes\abstraction_theory\obj\Debug\net6.0\abstraction_theory.pdb
+C:\Git\pro_with_classes\abstraction_theory\obj\Debug\net6.0\abstraction_theory.genruntimeconfig.cache
+C:\Git\pro_with_classes\abstraction_theory\obj\Debug\net6.0\ref\abstraction_theory.dll
