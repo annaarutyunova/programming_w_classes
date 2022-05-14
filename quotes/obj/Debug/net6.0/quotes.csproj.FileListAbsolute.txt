@@ -1,0 +1,15 @@
+C:\Git\programming_w_classes\quotes\obj\Debug\net6.0\quotes.csproj.AssemblyReference.cache
+C:\Git\programming_w_classes\quotes\obj\Debug\net6.0\quotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\programming_w_classes\quotes\obj\Debug\net6.0\quotes.AssemblyInfoInputs.cache
+C:\Git\programming_w_classes\quotes\obj\Debug\net6.0\quotes.AssemblyInfo.cs
+C:\Git\programming_w_classes\quotes\obj\Debug\net6.0\quotes.csproj.CoreCompileInputs.cache
+C:\Git\programming_w_classes\quotes\bin\Debug\net6.0\quotes.exe
+C:\Git\programming_w_classes\quotes\bin\Debug\net6.0\quotes.deps.json
+C:\Git\programming_w_classes\quotes\bin\Debug\net6.0\quotes.runtimeconfig.json
+C:\Git\programming_w_classes\quotes\bin\Debug\net6.0\quotes.dll
+C:\Git\programming_w_classes\quotes\bin\Debug\net6.0\quotes.pdb
+C:\Git\programming_w_classes\quotes\obj\Debug\net6.0\quotes.dll
+C:\Git\programming_w_classes\quotes\obj\Debug\net6.0\refint\quotes.dll
+C:\Git\programming_w_classes\quotes\obj\Debug\net6.0\quotes.pdb
+C:\Git\programming_w_classes\quotes\obj\Debug\net6.0\quotes.genruntimeconfig.cache
+C:\Git\programming_w_classes\quotes\obj\Debug\net6.0\ref\quotes.dll

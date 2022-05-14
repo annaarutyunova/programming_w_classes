@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\programming_w_classes\\hilo\\hilo.csproj": {}
+    "C:\\Git\\programming_w_classes\\quotes\\quotes.csproj": {}
   },
   "projects": {
-    "C:\\Git\\programming_w_classes\\hilo\\hilo.csproj": {
+    "C:\\Git\\programming_w_classes\\quotes\\quotes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\programming_w_classes\\hilo\\hilo.csproj",
-        "projectName": "hilo",
-        "projectPath": "C:\\Git\\programming_w_classes\\hilo\\hilo.csproj",
+        "projectUniqueName": "C:\\Git\\programming_w_classes\\quotes\\quotes.csproj",
+        "projectName": "quotes",
+        "projectPath": "C:\\Git\\programming_w_classes\\quotes\\quotes.csproj",
         "packagesPath": "C:\\Users\\annaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\programming_w_classes\\hilo\\obj\\",
+        "outputPath": "C:\\Git\\programming_w_classes\\quotes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\annaa\\AppData\\Roaming\\NuGet\\NuGet.Config"

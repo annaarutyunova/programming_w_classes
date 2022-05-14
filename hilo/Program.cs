@@ -1,42 +1,63 @@
-﻿public class Deck {
-    // Trying to define all the attributes and methods in the Deck class
-    public int currentCard;
-    public int nextCard;
-    
-    public int GenerateRandomNumber()
+﻿using hilo.Game;
+
+
+namespace hilo
+{
+
+    class Program
     {
-        Random randomNumber = new Random();
-        return value = randomNumber.Next(1,14);
-    }
-    public void UpdateCard() 
-    {
-        currentCard = nextCard;
-        int nextCardUpdated = GenerateRandomNumber();
-        if (nextCardUpdated == currentCard)
+        /// <summary>
+        /// Starts the program using the given arguments.
+        /// </summary>
+        /// <param name="args">The given arguments.</param>
+
+
+        static int Main(string[] args)
         {
-            
+            Deck deck = new Deck();
+            bool playing = true;
+
+            Player player = new Player(); 
+            while(playing){ 
+                player.Guess(deck);
+                playing = KeepPlaying(player);
+                deck.UpdateCard();
+            }
+
+            return 0;          
         }
-    
-    }
-    public Deck()
-    {
-    
-    }
+        static bool KeepPlaying(Player player) {
+            if(player.score <= 0) {
+                Console.WriteLine("You lost.");
+                Console.WriteLine("Would you like to continue playing? y/n");
+                string answer = Console.ReadLine();
+                if (answer.ToLower() == "y") {
+                    player.score = 300;
+                    return true;
+                }
+                return false;
+            }
+            if (player.score >= 500) {
+                Console.WriteLine("Would you like to continue playing? y/n");
+                string answer = Console.ReadLine();
+                if (answer.ToLower() == "y") {
+                    return true;
+                }
+                return false;
+            }
+            return true;
+            // if (score >= 500) {
+            //         Console.WriteLine("Would you like to continue playing? y/n");
+            //         string answer = Console.ReadLine();
+            //     }
+        
+        // }
+        }
+
+
+    }      
 }
 
-public class Player {
-    public int score = 300;
 
-    public void Guess() {
-        Deck deck = new Deck();
-        Console.WriteLine(deck.currentCard = GenerateRandomNumber());
-        Console.WriteLine("lower or higher? Type l/h? ");
-        string guess = Console.Readline();
-        if (guess == l)
-        {
-
-        }
-    }
-}
 
 
