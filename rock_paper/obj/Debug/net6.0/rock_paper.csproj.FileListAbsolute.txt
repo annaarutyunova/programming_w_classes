@@ -1,0 +1,15 @@
+C:\Git_GitHub\programming_w_classes\rock_paper\obj\Debug\net6.0\rock_paper.csproj.AssemblyReference.cache
+C:\Git_GitHub\programming_w_classes\rock_paper\obj\Debug\net6.0\rock_paper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git_GitHub\programming_w_classes\rock_paper\obj\Debug\net6.0\rock_paper.AssemblyInfoInputs.cache
+C:\Git_GitHub\programming_w_classes\rock_paper\obj\Debug\net6.0\rock_paper.AssemblyInfo.cs
+C:\Git_GitHub\programming_w_classes\rock_paper\obj\Debug\net6.0\rock_paper.csproj.CoreCompileInputs.cache
+C:\Git_GitHub\programming_w_classes\rock_paper\bin\Debug\net6.0\rock_paper.exe
+C:\Git_GitHub\programming_w_classes\rock_paper\bin\Debug\net6.0\rock_paper.deps.json
+C:\Git_GitHub\programming_w_classes\rock_paper\bin\Debug\net6.0\rock_paper.runtimeconfig.json
+C:\Git_GitHub\programming_w_classes\rock_paper\bin\Debug\net6.0\rock_paper.dll
+C:\Git_GitHub\programming_w_classes\rock_paper\bin\Debug\net6.0\rock_paper.pdb
+C:\Git_GitHub\programming_w_classes\rock_paper\obj\Debug\net6.0\rock_paper.dll
+C:\Git_GitHub\programming_w_classes\rock_paper\obj\Debug\net6.0\refint\rock_paper.dll
+C:\Git_GitHub\programming_w_classes\rock_paper\obj\Debug\net6.0\rock_paper.pdb
+C:\Git_GitHub\programming_w_classes\rock_paper\obj\Debug\net6.0\rock_paper.genruntimeconfig.cache
+C:\Git_GitHub\programming_w_classes\rock_paper\obj\Debug\net6.0\ref\rock_paper.dll

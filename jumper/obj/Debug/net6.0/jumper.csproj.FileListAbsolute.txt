@@ -1,0 +1,15 @@
+C:\Git_GitHub\programming_w_classes\jumper\bin\Debug\net6.0\jumper.exe
+C:\Git_GitHub\programming_w_classes\jumper\bin\Debug\net6.0\jumper.deps.json
+C:\Git_GitHub\programming_w_classes\jumper\bin\Debug\net6.0\jumper.runtimeconfig.json
+C:\Git_GitHub\programming_w_classes\jumper\bin\Debug\net6.0\jumper.dll
+C:\Git_GitHub\programming_w_classes\jumper\bin\Debug\net6.0\jumper.pdb
+C:\Git_GitHub\programming_w_classes\jumper\obj\Debug\net6.0\jumper.csproj.AssemblyReference.cache
+C:\Git_GitHub\programming_w_classes\jumper\obj\Debug\net6.0\jumper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git_GitHub\programming_w_classes\jumper\obj\Debug\net6.0\jumper.AssemblyInfoInputs.cache
+C:\Git_GitHub\programming_w_classes\jumper\obj\Debug\net6.0\jumper.AssemblyInfo.cs
+C:\Git_GitHub\programming_w_classes\jumper\obj\Debug\net6.0\jumper.csproj.CoreCompileInputs.cache
+C:\Git_GitHub\programming_w_classes\jumper\obj\Debug\net6.0\jumper.dll
+C:\Git_GitHub\programming_w_classes\jumper\obj\Debug\net6.0\refint\jumper.dll
+C:\Git_GitHub\programming_w_classes\jumper\obj\Debug\net6.0\jumper.pdb
+C:\Git_GitHub\programming_w_classes\jumper\obj\Debug\net6.0\jumper.genruntimeconfig.cache
+C:\Git_GitHub\programming_w_classes\jumper\obj\Debug\net6.0\ref\jumper.dll

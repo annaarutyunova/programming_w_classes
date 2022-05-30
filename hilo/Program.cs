@@ -37,7 +37,7 @@ namespace hilo
                 }
                 return false;
             }
-            if (player.score >= 500) {
+            if (player.score >= 700) {
                 Console.WriteLine("Would you like to continue playing? y/n");
                 string answer = Console.ReadLine();
                 if (answer.ToLower() == "y") {

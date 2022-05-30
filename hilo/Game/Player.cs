@@ -25,11 +25,11 @@ namespace hilo.Game
             }
             else if (guess == "h") {
                 if(deck.currentCard < deck.nextCard) {
-                    Console.WriteLine("Try again");
+                    Console.WriteLine("Well done");
                     score +=100;
                 }
                 else {
-                    Console.WriteLine("Good job");
+                    Console.WriteLine("Try again");
                     score -=75;
                 }
                 Console.WriteLine($"Your score is: {score}");
