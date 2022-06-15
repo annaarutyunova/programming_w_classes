@@ -14,6 +14,7 @@ namespace Unit04.Game.Casting
         public class Artifact : Actor // inherits everything from Actor class
         {
             private string message = ""; // add an additional attribute to the class
+            private int points = 50;
 
             // 2) Create the class constructor. Use the following method comment.
         
@@ -33,6 +34,16 @@ namespace Unit04.Game.Casting
             public void SetMessage(string message)
             {
                 this.message = message;
+            }
+
+            public int GetPoints()
+            {
+                return points;
+            }
+
+            public void SetPoints(int points)
+            {
+                this.points = points;
             }
         }
 
