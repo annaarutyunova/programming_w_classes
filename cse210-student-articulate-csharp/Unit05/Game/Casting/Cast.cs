@@ -67,7 +67,7 @@ namespace Unit05.Game.Casting
             }
             return results;
         }
-
+        
         /// <summary>
         /// Gets the first actor in the given group.
         /// </summary>
