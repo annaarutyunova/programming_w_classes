@@ -18,6 +18,7 @@ public class Program
 
         // Player player1 = new Player();
         // player1.GetNumbers(" it worked "); 
+        Director director = new Director();
 
     }
 

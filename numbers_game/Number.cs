@@ -41,10 +41,22 @@ public class Number
         Console.WriteLine(String.Join(" ", numbers));
     }
 
-    public List<string> ConverToTrimmedString()
+    public List<string> ConvertToTrimmedList()
     {
         List<string> num = numbers.Select(i => i.ToString()).ToList();
         return num;
+    }
+    
+    public string ConvertToString()
+    {
+        string numbers = string.Join("",ConvertToTrimmedList());
+        return numbers;
+        // Console.WriteLine(numbers);
+    }
+
+    public void PrintTrimmedString()
+    {
+        Console.WriteLine(String.Join("", ConvertToTrimmedList()));
     }
 
     public void Clear()
