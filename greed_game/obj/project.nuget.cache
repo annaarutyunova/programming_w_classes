@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vBbIIWs6NYN5KykfTwd7nR4bfyRYqxV09NNPWJdFUm7rZnZ8yQALhzEvGEef3YQBZitHa+KqSfbqUHuYn5gaWg==",
+  "success": true,
+  "projectFilePath": "C:\\Git_GitHub\\programming_w_classes\\greed_game\\greed_game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\annaa\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\annaa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Git_GitHub\programming_w_classes\inheritance-inclass\obj\Debug\net6.0\inheritance-inclass.csproj.AssemblyReference.cache
+C:\Git_GitHub\programming_w_classes\inheritance-inclass\obj\Debug\net6.0\inheritance-inclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git_GitHub\programming_w_classes\inheritance-inclass\obj\Debug\net6.0\inheritance-inclass.AssemblyInfoInputs.cache
+C:\Git_GitHub\programming_w_classes\inheritance-inclass\obj\Debug\net6.0\inheritance-inclass.AssemblyInfo.cs
+C:\Git_GitHub\programming_w_classes\inheritance-inclass\obj\Debug\net6.0\inheritance-inclass.csproj.CoreCompileInputs.cache
+C:\Git_GitHub\programming_w_classes\inheritance-inclass\bin\Debug\net6.0\inheritance-inclass.exe
+C:\Git_GitHub\programming_w_classes\inheritance-inclass\bin\Debug\net6.0\inheritance-inclass.deps.json
+C:\Git_GitHub\programming_w_classes\inheritance-inclass\bin\Debug\net6.0\inheritance-inclass.runtimeconfig.json
+C:\Git_GitHub\programming_w_classes\inheritance-inclass\bin\Debug\net6.0\inheritance-inclass.dll
+C:\Git_GitHub\programming_w_classes\inheritance-inclass\bin\Debug\net6.0\inheritance-inclass.pdb
+C:\Git_GitHub\programming_w_classes\inheritance-inclass\obj\Debug\net6.0\inheritance-inclass.dll
+C:\Git_GitHub\programming_w_classes\inheritance-inclass\obj\Debug\net6.0\refint\inheritance-inclass.dll
+C:\Git_GitHub\programming_w_classes\inheritance-inclass\obj\Debug\net6.0\inheritance-inclass.pdb
+C:\Git_GitHub\programming_w_classes\inheritance-inclass\obj\Debug\net6.0\inheritance-inclass.genruntimeconfig.cache
+C:\Git_GitHub\programming_w_classes\inheritance-inclass\obj\Debug\net6.0\ref\inheritance-inclass.dll
